@@ -3,6 +3,6 @@ car plate detection system using openalbr library to detect whether the car in t
 
 
 
-Requirements: 
-1 - python3 
-2 - openalbr library installed on your system
+<h3>Requirements:</h3> 
+<h6>1 - python3 </h6>
+<h6>2 - openalbr library installed on your system </h6>
