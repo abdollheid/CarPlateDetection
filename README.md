@@ -4,5 +4,5 @@ car plate detection system using openalbr library to detect whether the car in t
 
 
 <h3>Requirements:</h3> 
-<h5> python3</h5>
-<h5>openalbr library installed on your system </h5>
+<h6> python3</h6>
+<h6>openalbr library installed on your system </h6>
